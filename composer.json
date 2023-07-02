@@ -1,6 +1,6 @@
 {
     "name": "dcrawe/hw",
     "require": {
-        "monolog/monolog": "1.0.*"
+        "monolog/monolog": "^3.0"
     }
 }
